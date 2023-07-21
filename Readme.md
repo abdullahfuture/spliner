@@ -7,7 +7,7 @@ This is a web application built using Spline and React that provides a high-qual
 To get started with the Spline-React 3D Website, follow the steps below:
 
 1. Clone the repository to your local machine using the following command: <br />
-``` git clone https://github.com/abdullahfuture/spliner.git  ```
+`` git clone https://github.com/abdullahfuture/spliner.git  ``
 
 2. Install the required dependencies by running the following command:<br />
 ``` npm install ```
